@@ -1,0 +1,32 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+data/*.json
+data/*.xlsx
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
+
+# System-generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit/Dash cache
+.streamlit/
+dash_cache/
+
+# VS Code settings (optional)
+.vscode/
